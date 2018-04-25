@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm John, I'm a novice javascript developer from Grand Rapids, MI.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This is going to be a collection of thoughts, things I'm working on and links to other people's content.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[darthjavascript@gmail.com](mailto:darthjavascript@gmail.com)
